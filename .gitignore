@@ -9,6 +9,7 @@
 # Ignore temporaries from GameCI
 /[Aa]rtifacts/
 /[Cc]odeCoverage/
+[Pp]ackages/manifest.json
 [Pp]ackages/packages-lock.json
 [Pp]rojectSettings/ProjectSettings.asset
 
