@@ -9,8 +9,8 @@
 # Ignore temporaries from GameCI
 /[Aa]rtifacts/
 /[Cc]odeCoverage/
-Packages/packages-lock.json
-ProjectSettings/ProjectSettings.asset
+[Pp]ackages/packages-lock.json
+[Pp]rojectSettings/ProjectSettings.asset
 
 # VS/VS Code generated
 .vs/
